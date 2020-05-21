@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "tfar.doublestairs.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "doublestairs.refmap.json",
+  "mixins": [
+    "RecipeManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
